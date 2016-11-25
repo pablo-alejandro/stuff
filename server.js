@@ -1,4 +1,5 @@
 // BASE SETUP
+var User = require('./app/models/user');
 // ======================================
 // CALL THE PACKAGES --------------------
 var express = require('express'); // call express
